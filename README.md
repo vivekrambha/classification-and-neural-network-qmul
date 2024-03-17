@@ -1,4 +1,4 @@
-# Haskell-Threads: Machine Learning Projects
+#Machine Learning Project
 
 ## Overview
 This repository contains two Jupyter notebooks detailing implementations and experiments in machine learning, specifically focusing on classification and neural networks. The projects simulate various scenarios and utilize different datasets to demonstrate the application of these techniques in solving real-world problems.
